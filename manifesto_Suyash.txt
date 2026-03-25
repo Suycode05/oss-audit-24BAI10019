@@ -1,0 +1,36 @@
+
+============================================================
+          MY OPEN SOURCE MANIFESTO
+============================================================
+
+Date: 25 March 2026
+Author: Suyash Tripathi
+Chosen Software: Python
+
+I believe in the power of open source. 
+
+Every day I use Python, which reminds me that software 
+should be free and accessible to everyone. To me, 
+freedom means Autonomy — the ability to study, modify, 
+and improve the tools we rely on.
+
+I am committed to the open source philosophy. 
+If I could build and share one thing freely with the 
+world, it would be AI-powered learning platform.
+
+I pledge to contribute back to the community, 
+respect user freedoms, and help spread the spirit 
+of collaboration that makes projects like Python 
+and the entire Linux ecosystem possible.
+
+Open Source is not just about code — it is about 
+freedom, sharing knowledge, and building a better future 
+together.
+
+============================================================
+"Code is not just written — it is shared, improved, 
+and liberated."
+
+                                — Suyash Tripathi
+============================================================
+
